@@ -9,7 +9,7 @@ Created:  23/02/2021
 ------------------------------------------------------------------------------
 """
 
-print("Welcome to the Triangle Checker")
+print("Welcome to the Triangle Checker!")
 
 # get side lengths of triangle
 side1 = float(input("Enter the length of the first side: "))
